@@ -1,0 +1,9 @@
+Giriş Sayfası Resmi
+
+Uygulama Teması oluşturma
+
+uygulamada müşteri ekleme kısmında combobaxa sınır getirme
+
+ödeme kısmı için unit1den veri alıp ücretlendirme 
+
+uygulamayı ana ekranda başlatma

@@ -1,0 +1,33 @@
+# Delphi binary dosyaları
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.dsk
+*.local
+*.identcache
+*.map
+*.tvsconfig
+
+# Derleme klasörleri
+__history/
+__recovery/
+Win32/
+Win64/
+Debug/
+Release/
+
+# Yedek ve geçici dosyalar
+*.~*
+*.bak
+*.tmp
+*.log
+
+# IDE ayar dosyaları
+*.proj.user
+*.stat
+*.tvsconfig
+
+# Git klasörü
+.git/
